@@ -47,6 +47,7 @@ include "inc/koneksi.php";
 				<BR>
 			</center>
 			<form action="" method="post" enctype="multipart/form-data">
+				<p class="text-center">Username : user | Password : user123</p>
 				<div class="form-group has-feedback">
 					<input type="text" class="form-control" name="username" placeholder="Username" required>
 					<span class="glyphicon glyphicon-user form-control-feedback"></span>
